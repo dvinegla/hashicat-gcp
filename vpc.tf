@@ -1,5 +1,5 @@
 
-module "vpc" {
+module "network" {
     source  = "app.terraform.io/dvinegla-training/network/google"
     version = "3.2.2"
 
